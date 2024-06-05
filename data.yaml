@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['helm', 'motor', 'spion']
+
+roboflow:
+  workspace: club-hoki
+  project: kelengkapan-atribut
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/club-hoki/kelengkapan-atribut/dataset/1
