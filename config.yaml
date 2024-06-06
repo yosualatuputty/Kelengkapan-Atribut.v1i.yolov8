@@ -1,0 +1,9 @@
+path: C:\Users\YOSUA N LATUPUTTY\gemastik\kelengkapan_atribut
+train: train\images
+val: valid\images
+
+names:
+ 0: helm
+ 1: motor
+ 2: spion
+  
